@@ -1,1 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/tehran/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/mashhad/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/isfahan/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/shiraz/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/tabriz/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/karaj/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/qom/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/ahvaz/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/rasht/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/ardabil/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/sarein/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/kermanshah/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/yazd/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/urmia/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/zanjan/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/hamedan/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/bandarabbas/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/sari/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/gorgan/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/qazvin/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/bushehr/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/sanandaj/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/khorramabad/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/ilam/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/shahrekord/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/birjand/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/zahedan/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/kerman/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/arak/</loc></url><url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/cities/neyshabur/</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-SITE.github.io/index.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/tehran.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/isfahan.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/mashhad.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/shiraz.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/tabriz.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/karaj.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/qom.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/ahvaz.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/rasht.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/kermanshah.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/yazd.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/urmia.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/zahedan.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/hamedan.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/kerman.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/ardabil.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/bandarabbas.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/arak.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/qazvin.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/sanandaj.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/khorramabad.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/gorgan.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/sari.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/bushehr.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/birjand.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/ilam.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/shahrekord.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/yasuj.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/bojnurd.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/zanjan.html</loc></url>
+  <url><loc>https://YOUR-SITE.github.io/cities/semnan.html</loc></url>
+</urlset>
